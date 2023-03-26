@@ -6,7 +6,7 @@ https://isale-code.github.io/
 This project aims to design a regridding function for iSALE3D that can
 coarsen the resolution by a factor of two.
 ## iSALE3D framework
-![key generation procedure](https://github.com/18563407351/Liverpool-FYP/blob/main/images/1603971639(1).png)
+![key generation procedure](https://github.com/18563407351/Parallelization-of-iSALE-impact-physical-code-using-the-hybrid-Open-MP-method/blob/main/images/iSALE3D.png)
 ## Platform
 Ubuntu 20.04  
 ## Environment dependencis
@@ -14,4 +14,5 @@ Ubuntu 20.04
 Ubuntu 20.04  
 
 ### 2. Programming language:
-Fortran
+Fortran  
+#### For further information, please refer to 'reports/ms921-final-report.pdf'.
