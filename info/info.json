@@ -1,0 +1,16 @@
+{
+    "username": "ms921",
+    "code": "GC69",
+    "title": "Parallelisation of the iSALE shock physics code using a hybrid OpenMP/MPI approach",
+    "s1": {
+        "name": "Gareth Collins",
+        "email": "g.collins@imperial.ac.uk",
+        "affiliation": "Imperial College London"
+    },
+    "s2": {
+        "name": "Thomas Davison",
+        "email": "thomas.davison@imperial.ac.uk",
+        "affiliation": "Imperial College London"
+    },
+    "additional-supervisors": ""
+}
